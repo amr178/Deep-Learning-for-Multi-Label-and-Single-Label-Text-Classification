@@ -48,7 +48,7 @@ As concluded in the `report.pdf`, the **BiLSTM** model demonstrated **superior p
 
 ---
 
-## 🚀 How to Run the Code
+## How to Run the Code
 
 To execute the models and reproduce the results:
 
