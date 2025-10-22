@@ -1,4 +1,4 @@
-# NLP Assignment 2: Text Classification and Model Comparison 🤖
+# NLP Assignment 2: Text Classification and Model Comparison 
 
 This repository contains the source code and report for **NLP Assignment 2**, which focuses on **single-label text classification** using various Recurrent Neural Network (RNN) architectures and a comparative analysis of their performance.
 
