@@ -1,6 +1,6 @@
 # Text Classification and Model Comparison 
 
-This repository contains the source code and report for **NLP Assignment 2**, which focuses on **single-label text classification** using various Recurrent Neural Network (RNN) architectures and a comparative analysis of their performance.
+This repository contains the source code and report , which focuses on **single-label text classification** using various Recurrent Neural Network (RNN) architectures and a comparative analysis of their performance.
 
 ---
 
@@ -31,7 +31,7 @@ The models were trained on 50% of the data, monitored for generalization on a 20
 
 | File Name | Description |
 | :--- | :--- |
-| `nlp_assgn2.ipynb` | The main Jupyter Notebook containing the full code for preprocessing, model implementation, training, and a final **bar chart comparison** of test accuracies across all four models. |
+| `code.ipynb` | The main Jupyter Notebook containing the full code for preprocessing, model implementation, training, and a final **bar chart comparison** of test accuracies across all four models. |
 | `report.pdf` | The formal project report detailing the full methodology, **deep analysis of results**, discussion on model stability, and final conclusions. |
 | `experiment_results.csv` | CSV containing high-level experiment metrics, including `parallel_time_us`, `sequential_time_us`, and `speedup` (indicates a likely underlying parallel computing element to the solution or data generation). |
 | `rw_fine_grained_results.csv` | CSV containing detailed, fine-grained `execution_time` results. |
